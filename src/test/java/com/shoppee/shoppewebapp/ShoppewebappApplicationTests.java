@@ -1,0 +1,13 @@
+package com.shoppee.shoppewebapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ShoppewebappApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
